@@ -13,7 +13,7 @@ function operacionraiz(){
 
         I = A * B;
     }
-        alert("El resultado Estimado de la raiz fue: " + A);  
+        alert("El  resultado Estimado de la raiz fue: " + A);  
 		A = 1, B = 1, I = 1;
     }
 
